@@ -1,5 +1,13 @@
 {
-  "control_unit_info": {
+  "controlUnitInfo": {
     "sn": "1234", "model": "4321"
+  }
+  
+  "setWifiClientMode": {
+    "success": true
+  }
+
+  "PairControlUnit": {
+    "ssid": "vzcSSID", "password": "1234"
   }
 }
