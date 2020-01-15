@@ -7,7 +7,7 @@
     "success": true
   }
 
-  "PairControlUnit": {
+  "pairControlUnit": {
     "ssid": "vzcSSID", "password": "1234"
   }
 }
