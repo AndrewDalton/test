@@ -8,4 +8,7 @@
   "pairControlUnit": {
     "ssid": "vzcSSID", "password": "1234"
   }
+  "controlUnitStatus": {
+    "status": "Updating Firmware"
+  }
 }
