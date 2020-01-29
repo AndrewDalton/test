@@ -6,9 +6,12 @@
     "success": true
   },
   "pairControlUnit": {
-    "ssid": "vzcSSID", "password": "1234"
+    "firmwareState": false, "ssid": "vzcSSID", "password": "1234"
+  },
+  "pairControlUnitFirmwareUpdate": {
+    "firmwareState": true, "ssid": "vzcSSID", "password": "1234"
   },
   "controlUnitStatus": {
-    "status": "Updating Firmware"
+    "status": "Firmware Updated"
   }
 }
